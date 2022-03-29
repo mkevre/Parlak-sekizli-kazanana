@@ -1,0 +1,1 @@
+Optionally, to allow people to use built-in authentication if they don't have an account on your IdP, select **Allow built-in authentication**. 詳細は「[使用中のアイデンティティプロバイダ外のユーザのためにビルトイン認証を許可する](/admin/identity-and-access-management/authenticating-users-for-your-github-enterprise-server-instance/allowing-built-in-authentication-for-users-outside-your-identity-provider)」を参照してください。
